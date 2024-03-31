@@ -10,3 +10,4 @@ while i + 3 < B:
 while i - 3 > B:
     print(i - 3)
     i -= 3
+print("bye bye!")
